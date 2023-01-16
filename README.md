@@ -1,7 +1,6 @@
 
-<h1 align="left">Ola <img src="https://raw.githubusercontent.com/danielpedrom/danielpedrom/master/hi.gif" height="30px">, Sou o Daniel Pedro</h1>
+<h1 align="left">Ola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou o Daniel Pedro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
-
 - 🔥 Desenvolvedor Senior de Aplicações Web e Moblie
 
 - 🔭 Ceo DPDev.io
@@ -10,7 +9,13 @@
 
 - 🎻 Violinista de Paixão
 
-- 💻 Habilidade de Programar ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; ![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)&nbsp; ![Mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp; ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android)&nbsp;
+- 💻 Habilidade de Programar ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; ![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)&nbsp; ![Mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp; ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android)&nbsp; ![Android Studio](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; 
+
+
+
+<br>
+<br>
+<h>
 
 
 ![Playlist HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
