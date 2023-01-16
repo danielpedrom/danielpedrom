@@ -1,13 +1,11 @@
 
 <h1 align="left">Ola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou o Daniel Pedro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
-- 🔥 Desenvolvedor Senior de Aplicações Web e Moblie
 
+- 🔥 Desenvolvedor Senior de Aplicações Web e Moblie
 - 🔭 Ceo DPDev.io
 
 - ▶️ Meu Canal no Youtube [youtube.com/danielpedrom](https://www.youtube.com/@danielpedromundim2841)
-
-- 🎻 Violinista de Paixão
 
 - 💻 Habilidade de Programar ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; ![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)&nbsp; ![Mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp; ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android)&nbsp; ![Android Studio](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; 
 
