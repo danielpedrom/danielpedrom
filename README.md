@@ -1,6 +1,6 @@
 
 <h1 align="left">Ola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou o Daniel Pedro</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielpedrom&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Desenvolvedor Senior de Aplicações Web e Moblie
 - 🔭 Ceo DPDev.io
