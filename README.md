@@ -1,5 +1,5 @@
 
-Daniel Pedro
+<h1>Daniel Pedro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielpedrom&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Desenvolvedor Senior de Aplicações Web e Moblie
