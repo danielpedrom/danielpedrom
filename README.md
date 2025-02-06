@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielpedrom&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Desenvolvedor Senior de Aplicações Web e Moblie
-- 🔭 Ceo DPDev.io
 
 - ▶️ Meu Canal no Youtube [youtube.com/danielpedrom](https://www.youtube.com/@danielpedromundim2841)
 
