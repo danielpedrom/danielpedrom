@@ -5,7 +5,7 @@
 - 🔥 Desenvolvedor Senior de Aplicações Web e Moblie
 
 
-- 💻 Habilidade de Programar ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;  ![Mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp; ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android)&nbsp; ![Android Studio](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; 
+- 💻 Habilidade de Programar    ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;  ![Mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp; ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android)&nbsp; ![Android Studio](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; 
 
 
 
